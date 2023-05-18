@@ -1,6 +1,6 @@
 # One On Ones (1:1s) 
 
-### About
+## About
 This document helps managers and individual contributors who want to establish effective 1:1s. The intent is to provide conceptual guidelines as well as examples of how they can be implemented.
 
 ### What you'll find in this document
@@ -13,12 +13,12 @@ This document helps managers and individual contributors who want to establish e
 ⬝ [Effective 1:1s](#effective-11s)<br>
 ⬝ [How to use repos for regular 1:1s](#how-to-use-repos-for-regular-11s)<br>
 
-# Why 1:1s Matter
+## Why 1:1s Matter
 Sociological issues such as distrust and miscommunication can prevent a group of talented people from excelling as a team. Trust is the bedrock of high performing teams.
 
 > *Building a relationship and trust with your people is the fundamental act of managing... The single most important thing you can do to improve your relationship, and therefore your results, with your team is to get to know the strengths and weaknesses of everyone who works for you as individuals, rather than as a group.*
 
-###### Source: [Manager Tools Basics](http://www.manager-tools.com/manager-tools-basics)
+### Source: [Manager Tools Basics](http://www.manager-tools.com/manager-tools-basics)
 
 # Effective 1:1s...
 
@@ -62,7 +62,7 @@ Team members, please set expectations with your manager on what you want from th
 
 <details><summary><strong>:triangular_flag_on_post:&nbsp; 1:1 HOW-TO'S</strong></summary>
 
-### Scheduling:
+## Scheduling:
 It's important to have scheduled and consistent time for 1:1s.
 
 Prioritizing scheduled and consistent 1:1s (**optimally, weekly**) tells your team members:
@@ -81,7 +81,7 @@ It also lets people prepare for them. The time for a 1:1 should be considered sa
 
 :exclamation: At the moment, some managers at GitHub have teams too large to have weekly 1:1s. Our goal as an organization is to address this so that anyone who wants a weekly 1:1 gets it. Every other week is still much better than monthly.
 
-### Structure and Agenda
+## Structure and Agenda
 The 1:1 is a business meeting, but with the purpose of developing a working relationship. Even though it's a "relationship" meeting, you can increase the value of the 30 minutes with a structured agenda.
 
 A recommended structure is:
@@ -193,24 +193,24 @@ Tips:
 
 <br>
 
-### EASY | Early 1:1s - Establishing Trust & Relationship
+## EASY | Early 1:1s - Establishing Trust & Relationship
 Manager | Team Member | Both
 --- | --- | ---
 ⬝  Create a running agenda doc where both people add items |⬝  Proactively mention relevant and comfortable-to-share health information or religious preferences (like not working on the Sabbath) to your manager (because they can’t/shouldn't ask)<br>⬝  Share what you’re blocked on or need manager input for<br>⬝ Proactively bringing up blockers to your manager<br>⬝ Reviewing your calendar and talking about your priorities and where you spend your time to get feedback/guidance from your manager |⬝ Discuss how both each of you like to give and receive feedback
 
-### MEDIUM | Relationship Growing/Strengthening
+## MEDIUM | Relationship Growing/Strengthening
 Manager | Team Member 
 --- | --- 
 ⬝ Ask team members for advice and feedback on what’s needed in the team/business<br>⬝  Wait a few weeks to have long term goal conversations with new reports so you get to know them better |⬝  Proactively bring up your long term goals as soon as you are comfortable<br>⬝ Actively soliciting feedback on a specific item, e.g. “One of the things I wanted to improve on is X - Do you have feedback for me on this?”
 
-### HARD | Relationship Well-Established
+## HARD | Relationship Well-Established
 Manager | Team Member 
 --- | --- 
 ⬝ Critique specific work items to a high standard<br>⬝  Solicit input about process improvement, interpersonal challenges across the company |⬝ Drive the agenda for 1:1 discussion - it’s your time!<br>⬝ Give upwards feedback<br>⬝ Solicit feedback on progress towards promotion eligibility based on written plans
 
 </details>
 
-# How to use repos for regular 1:1s  
+## How to use repos for regular 1:1s  
 
 <details><summary><strong>Setting up a series of repositories as a 1:1 tracking tool for your team members</summary></strong>
 <br>
@@ -295,7 +295,7 @@ A way to continually improve our work outcomes and interactions with colleagues.
 - Personal plan for this month?
 - Personal plan for this quarter?
 
-## Call Notes
+### Call Notes
 - TBD
  
 </details>
