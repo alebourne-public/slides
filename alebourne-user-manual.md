@@ -1,6 +1,7 @@
 # Working with @alebourne - User manual
 
 ## What are some general things to know?
+
 - I am an expat. I was born and raised in Mexico City and now live in the USA. 
 - I love working with multicultural teams, it is great to learn about other cultures.
 - My dog’s name are Aspen and Kenai. I like travelling, camping and going to modern art museums. 
@@ -12,6 +13,7 @@
 - I believe in servant leadership and leading by example.
 
 ## What are some honest, unfiltered things about me?
+
 - I tend to be quiet and not to say much until I build rapport with others, then I am very outgoing.
 - I tend to say Yes to many things. Sometimes taking on too many things. I am working on learning to say No.
 - My communication style is generally clear and direct. Except when I have something negative to say, it will probably not be very direct. I try not to be rude so I tend to keep things to myself. Especially if they are not positive. So if I am very quiet, it may be that things are not going well. I am working on this, but it is a process.
@@ -23,13 +25,16 @@
 - Sometimes I may say “I don’t know about this…” that actually means “I do not think this is a good idea”.
 
 ## What motivates me
+
 - I like to have a positive impact in the world or on people.
 - I try to learn something new every day.
 - Positive impact in the world--in my heart of hearts, I believe the work we do at GitHub connects more people with opportunity. 
 - Progress. I like things to move forward, and to see iteration. 
 - I like to learn and try new things, although this sometimes distracts me. I like chasing shiny new things and to reinvent myself.
 - Innovation & experimentation, and the growth that comes from that.
+- 
 ## What drives me nuts? 
+
 - I do not like to be mansplained or to be talked down to. Treat me equally.
 - Being opaque or vague. I interpret this as disrespectful of time and effort invested. I would much prefer direct bad news, or a no, than double-speak. 
 - Being manipulated. Lied to.
@@ -37,6 +42,7 @@
 - Being asked to write lengthy documents that no one will ever read. I would much rather write a presentation that I can give 10 times. 
 
 ## What qualities do I particularly value in people?
+
 - Authenticity - be honest, real, and say what is true for you. 
 - Kindness and respect. We spend most of our waking hours at work. Let’s be kind to each other. 
 - Reliable. You can count on me, but you need to be there for me too.
